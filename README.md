@@ -1,55 +1,76 @@
-# Matheus Oliveira - Desenvolvedor Júnior
-![Banner](https://via.placeholder.com/1000x250.png?text=Bem+vindo+ao+meu+perfil!) <!-- Substitua com um link para sua imagem de banner personalizada -->
+# Matheus Oliveira | Desenvolvedor Júnior | Segurança da Informação
 
-## Sobre Mim
-Sou Desenvolvedor Júnior, apaixonado por Desenvolvimento e Segurança da Informação, com experiência em Análise de Sistemas. Gosto de trabalhar em projetos que envolvam resolução de problemas, e estou sempre buscando aprender e compartilhar conhecimento com a comunidade.
+![Banner](https://via.placeholder.com/1000x250.png?text=Desenvolvedor+Júnior+e+Especialista+em+Segurança+da+Informação) <!-- Substitua por um banner tecnológico ou relacionado à sua área -->
 
-- 🌱 **Atualmente estou aprendendo:** ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) **PHP** e ![PLSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg) **PL/SQL**.
-- 📫 **Como me encontrar:** mo165082@gmail.com
+### Sobre Mim
+Desenvolvedor Júnior com foco em **Desenvolvimento de Software** e **Segurança da Informação**. Experiência em **Análise de Sistemas** e resolução de problemas complexos. Sempre em busca de aprimorar habilidades e compartilhar conhecimento com a comunidade técnica.
 
-## Habilidades
-![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg)
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
-![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg)
-![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg)
+- 🌱 **Atualmente aprendendo**: PHP | PL/SQL
+- 💼 **Interesse em**: Desenvolvimento Backend, Segurança da Informação, Automação
+- 📫 **Contato**: mo165082@gmail.com
 
-## Sistemas Operacionais
+---
+
+## 🛠 Habilidades Técnicas
+
+**Linguagens de Programação:**
+
+![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg) ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+
+**Sistemas Operacionais:**
+
 ![Fedora](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg) ![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg) ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
 
-## Contato
-- 📧 **Email:** [mo165082@gmail.com](mailto:mo165082@gmail.com)
-- 💼 **LinkedIn:** [Matheus Oliveira](https://www.linkedin.com/in/matheus-oliveira-b46a5a293)
+**Ferramentas e Tecnologias:**
+
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
 
 ---
 
-![Codando](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif) <!-- Substitua com um gif ou imagem divertida de sua preferência -->
+## 📊 Estatísticas de Contribuições
 
-## Tamo Junto!
-![Linux Tux](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
----
-
-## Minhas Contribuições no GitHub
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=md-oliveira&theme=highcontrast)
-
----
-
-## Badges e Certificações
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<p align="center">
+  <a href="https://github.com/md-oliveira">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=md-oliveira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-oliveira&layout=compact&langs_count=7&theme=react"/>
+  </a>
+</p>
 
 ---
 
-## Projetos em Destaque
-<a href="https://github.com/md-oliveira/meu-projeto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=md-oliveira&repo=meu-projeto&theme=dark" />
-</a>
+## 🚀 Projetos em Destaque
+
+### [Nome do Projeto 1](https://github.com/md-oliveira/projeto1)
+- **Tecnologias:** PHP, MySQL, Docker
+- **Descrição:** Sistema completo de gerenciamento de dados para pequenas empresas com integração em nuvem.
+
+### [Nome do Projeto 2](https://github.com/md-oliveira/projeto2)
+- **Tecnologias:** Python, Flask, PostgreSQL
+- **Descrição:** Plataforma de monitoramento de segurança, com alertas automáticos para vulnerabilidades detectadas em tempo real.
 
 ---
 
-## Vamos colaborar?
-Sinta-se à vontade para contribuir com meus projetos ou entrar em contato. Adoro discutir novas ideias e colaborar com outros desenvolvedores!
+## 📧 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-oliveira-b46a5a293)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mo165082@gmail.com)
 
 ---
+
+## 🎯 Objetivos Profissionais
+
+- Aprofundar conhecimentos em **Segurança da Informação** e **Desenvolvimento Backend**
+- Contribuir para projetos de código aberto e colaborar em soluções inovadoras
+- Certificações em **AWS** e **DevOps**
+
+---
+
+## 💡 Filosofia de Trabalho
+
+> "O sucesso é resultado da persistência e da curiosidade constante."
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="120">
+</p>
